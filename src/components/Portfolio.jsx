@@ -29,20 +29,29 @@ const Portfolio = () => {
           <div className="education ms-4">
             <div>
               <h2 className="text-center">Education</h2>
-              <dd>
-                <h3>Ekiti State University</h3>
-              </dd>{" "}
+              <dt>
+                <h4>Ekiti State University</h4>
+              </dt>
               <dl>Computer Engineering</dl>
-              <dl>Computer Engineering</dl>
-              <dd>
-                <h3>Alabian Solutions Limited</h3>
-              </dd>
-              <dl>MERN stack developer</dl>
+              <dt>
+                <h4>Alabian Solution Limited</h4>
+              </dt>
+              <dl>Mern Stack Developer</dl>
             </div>
           </div>
         </div>
         <div className="col-md-6">
-          <h2>mike</h2>
+          <h2 className="text-center">Goals</h2>
+          <p>
+            During the course of my intern, i promise to be dedicated to
+            whichever team am paired to work with as a frontend developer
+          </p>
+              <ol> <h4>Intern objectives</h4> </ol>
+              <li>working with other team members to carry out task</li>
+              <li>making research to execute tasks when stucked or in dead end of task execution</li>
+              <li>making progressive contribution to collaborators towards execution of task</li>
+              <li>working towards deadline on all givern tasks</li>
+         
         </div>
       </Row>
     </div>

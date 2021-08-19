@@ -20,9 +20,9 @@ const Application = () => {
         </div>
         <div className="col-md-4 text-center pt-3">
           <h2>Temitope Samson Isaiah</h2>
-          <h2>
-            HNG/ZURI:<a href="https://training.zuri.team/enrollment">🌏</a>
-          </h2>
+          <h4>
+            HNG/ZURI Internship:<a href="https://training.zuri.team/enrollment" onclick="window.open('https://training.zuri.team/enrollment')">🌏</a>
+          </h4>
           <h6>
             <i>Tel: +2348130134671</i> <br />
           </h6>
