@@ -46,7 +46,7 @@ const Portfolio = () => {
             During the course of my intern, i promise to be dedicated to
             whichever team am paired to work with as a frontend developer
           </p>
-              <ol> <h4>Intern objectives</h4> </ol>
+              <ol> <h4>Intern Objectives</h4> </ol>
               <li>working with other team members to carry out task</li>
               <li>making research to execute tasks when stucked or in dead end of task execution</li>
               <li>making progressive contribution to collaborators towards execution of task</li>
