@@ -1,0 +1,9 @@
+
+#general{
+    background-color: rgba(47, 192, 192, 0.116)  !important ;
+    border-radius: 20px 0px 0px 0px;
+    border-bottom: 30px solid rgba(110, 110, 204, 0.219) !important;
+}
+#navy{
+    background-color: navy !important;
+}
