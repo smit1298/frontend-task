@@ -45,7 +45,7 @@ const Portfolio = () => {
 
           <div className="education ms-4">
             <div>
-              <h3 style={folio}className="text-center">Education</h3>
+              <h3 className="text-center">Education</h3>
               <dt>
                 <h4>Ekiti State University</h4>
               </dt>

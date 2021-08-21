@@ -45,7 +45,7 @@ const Portfolio = () => {
 
           <div className="education ms-4">
             <div>
-              <h3 style={folio}className="text-center">Education</h3>
+              <h3 className="text-center">Education</h3>
               <dt>
                 <h4>Ekiti State University</h4>
               </dt>
@@ -64,7 +64,7 @@ const Portfolio = () => {
             whichever team am paired to work with as a frontend developer
           </p>
           <ol>
-            <h3 className='text-center'>Intern Objectives</h3>
+            <h3 className=>Intern Objectives</h3>
           </ol>
           <li>working with other team members to carry out task</li>
           <li>

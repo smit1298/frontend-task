@@ -4,24 +4,20 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 const Portfolio = () => {
   const folio = {
-    border: "1px solid navy",
-    marginTop: '10px',
-    paddingBottom: '10px',
-    height: '40px', 
-    background: "skyblue",
-    // borderRadius: "35%",
+    border: "1px solid red",
+    Color: "red"
     // display: "none"
   };
 
   return (
     <div className="container-fluid">
       <Row>
-        <h2 className="text-center">My Portfolio</h2>
+        <h1 className="text-center">My Portfolio</h1>
         <div className="col-md-6">
           <div className="meet-me ms-4">
-            <h3 className="text-center" style={folio}>
+            <h2 className="text-center" style={folio}>
               About Me
-            </h3>
+            </h2>
             <p>
               I am an inventive Web Developer, creates novel site designs and
               innovative user interfaces. Known for architecting customer-facing
@@ -45,7 +41,7 @@ const Portfolio = () => {
 
           <div className="education ms-4">
             <div>
-              <h3 style={folio}className="text-center">Education</h3>
+              <h2 className="text-center">Education</h2>
               <dt>
                 <h4>Ekiti State University</h4>
               </dt>
@@ -58,13 +54,13 @@ const Portfolio = () => {
           </div>
         </div>
         <div className="col-md-6">
-          <h3 style={folio} className="text-center">Goals</h3>
+          <h2 className="text-center">Goals</h2>
           <p>
             During the course of my intern, i promise to be dedicated to
             whichever team am paired to work with as a frontend developer
           </p>
           <ol>
-            <h3 className='text-center'>Intern Objectives</h3>
+            <h4>Intern Objectives</h4>
           </ol>
           <li>working with other team members to carry out task</li>
           <li>
