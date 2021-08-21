@@ -36,7 +36,7 @@ const Contact = () => {
           <div class="mapouter">
             <div class="gmap_canvas">
               <iframe
-              title='my location'
+              title=
                 class="gmap_iframe"
                 width="100%"
                 frameborder="0"
