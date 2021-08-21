@@ -8,7 +8,7 @@ const Portfolio = () => {
     marginTop: '10px',
     paddingBottom: '10px',
     height: '40px', 
-    background: "lightgray",
+    background: "skyblue",
     // borderRadius: "35%",
     // display: "none"
   };
@@ -63,12 +63,12 @@ const Portfolio = () => {
             During the course of my intern, i promise to be dedicated to
             whichever team am paired to work with as a frontend developer
           </p>
-          <h3 style={folio} className='text-center'>
-            <ol>
-             Intern Objectives
-          </ol>
+          <h3>
+            
           </h3>
-          
+          <ol>
+             style={folio} className='text-center'>Intern Objectives
+          </ol>
           <li>working with other team members to carry out task</li>
           <li>
             making research to execute tasks when stucked or in dead end of task

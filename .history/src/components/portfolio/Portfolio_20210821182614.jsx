@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 const Portfolio = () => {
   const folio = {
-    border: "1px solid navy",
+    border: "2px solid navy",
     marginTop: '10px',
     paddingBottom: '10px',
     height: '40px', 

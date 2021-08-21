@@ -8,7 +8,7 @@ const Portfolio = () => {
     marginTop: '10px',
     paddingBottom: '10px',
     height: '40px', 
-    background: "lightgray",
+    background: "skyblue",
     // borderRadius: "35%",
     // display: "none"
   };
