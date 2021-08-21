@@ -9,7 +9,7 @@ const Contact = () => {
       <Row id="foot">
         <h2 className="text-center">Contact</h2>
         <Col className="ms-2 my-4">
-          <form action='mailto:isaiahtemitope4@gmail.com'  id="contact-form" method="POST">
+          <form action=  id="contact-form" method="POST">
             <div className="form-group">
               <label htmlFor="name">Name</label>
               <input type="text" className="form-control" />
