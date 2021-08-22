@@ -23,7 +23,7 @@ const Portfolio = () => {
               About Me
             </h3>
             <p>
-              I am an inventive Web Developer, Aspiring MERN stack developer, creates novel site designs and
+              I am an inventive Web Developer, creates novel site designs and
               innovative user interfaces. Known for architecting customer-facing
               products that deliver unique experiences while complying with
               internal coding standards and technical requirements. Clever
@@ -36,9 +36,7 @@ const Portfolio = () => {
             <p>
               Fully proficient in &nbsp;
               <b>
-                HTML, CSS, BOOTSTRAP, Git, Javascript, ReactJs, React-Bootstrap,
-                MDB React and Material-UI
-              </b>
+ n              </b>
               .
             </p>
           </div>
